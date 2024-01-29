@@ -1,0 +1,17 @@
+{
+  "profileName": "mykpazurebot",
+  "jobId": "b32d58fb-f014-45be-810d-5a8bc9ecef7a",
+  "projectId": "74988.6419779398",
+  "time": "2024-01-29T07:50:51.175Z",
+  "log": [
+    "Creating Azure resources...",
+    "Checking the Existence of the Resource Group ...",
+    "Use the Resource Group: pravrg at eastus2",
+    "> Creating App Registration ...",
+    "Start to add password for App, Id : 5ec0a0d9-1d81-460b-8afa-87f820645865",
+    "> Create App Registration Success! ID: 5ec0a0d9-1d81-460b-8afa-87f820645865",
+    "Deploying Web App Resource ...",
+    "Deploying Bot Resource ...",
+    "Provisioning completed successfully!"
+  ]
+}

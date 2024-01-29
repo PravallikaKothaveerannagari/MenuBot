@@ -1,0 +1,12 @@
+[import](common.lg)
+
+# SendActivity_JF02WV()
+[Activity
+    Text = ${SendActivity_JF02WV_text()}
+]
+
+# SendActivity_JF02WV_text()
+- ```Today's menu
+ \- Pizza
+ \- Burger and fries
+ \- Chicken sandwich```
